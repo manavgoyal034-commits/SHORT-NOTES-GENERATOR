@@ -1,0 +1,15 @@
+warehouse-stock-tracker/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── STATEMENT.md
+├── RESULTS.md
+├── requirements.txt
+├── main.py
+└── src/
+    ├── __init__.py
+    ├── tracker.py
+    └── storage.py
+└── tests/
+    ├── __init__.py
+    └── test_tracker.py
